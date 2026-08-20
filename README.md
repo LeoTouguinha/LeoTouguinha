@@ -121,14 +121,23 @@ Data Architecture & Governance
 Medallion Architecture · Data Quality · Data Governance · Data Lineage · Data Contracts · Data Products
 
 📌 Atualmente focado em
+
 Arquitetura moderna de dados
+
 Data Governance & Data Quality
+
 Data Products
+
 Engenharia de Dados
+
 Data Science
+
 Databricks & PySpark
+
 Aplicação de IA em ambientes corporativos
+
 Conexão entre Dados, IA e decisões de negócio
+
 Decision-Driven Data Architecture (D³A)
 
 🤝 Vamos conversar
