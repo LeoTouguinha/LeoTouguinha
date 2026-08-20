@@ -1,4 +1,5 @@
-Leonardo Touguinha
+**Leonardo Touguinha**
+
 Data & Analytics | Data Governance | Data Engineering | Decision-Driven Data Architecture | Data Science
 
 Transformo dados complexos em bases confiáveis para decisões melhores e resultados mensuráveis.
@@ -9,16 +10,13 @@ Minha atuação combina Governança de Dados, Qualidade, Engenharia de Dados, An
 
 🧭 Como penso Dados
 
-Dados não geram valor. Decisões geram valor.
-A arquitetura existe para transformar dados confiáveis em decisões confiáveis.
+Dados não geram valor. Decisões geram valor, a arquitetura existe para transformar dados confiáveis em decisões confiáveis.
 
 Essa é a premissa do D³A — Decision-Driven Data Architecture, um framework que venho desenvolvendo para conectar arquitetura de dados, governança, qualidade, IA e consumo de dados àquilo que realmente importa: decisões e resultados de negócio.
 
 Dados → Governança → Qualidade → IA & Analytics → Decisão → Resultado
 
-O objetivo não é construir apenas pipelines, dashboards ou modelos.
-
-É construir uma base capaz de responder:
+O objetivo não é construir apenas pipelines, dashboards ou modelos, é construir uma base capaz de responder:
 
 “Podemos confiar na decisão que estamos tomando?”
 
@@ -28,16 +26,16 @@ Governança de dados aplicada à operação
 Data Quality e controles de confiabilidade
 Data Stewardship e Data Ownership
 Metadados, Data Lineage e Data Contracts
-LGPD e requisitos de ambientes regulados
-SUSEP e BACEN
+LGPD e requisitos de ambientes regulados SUSEP e BACEN
 Data Engineering
 Construção de pipelines de dados
 Python e PySpark
 SQL
 Arquitetura Medallion — Bronze / Silver / Gold
+Data Products
 Lakehouse e processamento distribuído
 Databricks
-AWS
+Cloud Computing
 Orquestração com Airflow
 Analytics & Data Science
 Business Intelligence e Power BI
@@ -49,6 +47,7 @@ RFM e churn
 Modelos preditivos aplicados a problemas de negócio
 
 🔬 Projeto em destaque
+
 🚗 Previsão de Sinistros de Auto
 
 Projeto de Machine Learning aplicado ao mercado de seguros, desenvolvido para prever a probabilidade de ocorrência de sinistros e apoiar decisões relacionadas à gestão de risco.
@@ -89,8 +88,6 @@ Python · PySpark · SQL · Databricks · Apache Spark · Airflow
 
 Cloud & Data Platform
 
-AWS · S3 · Glue · Athena · Redshift
-
 Analytics
 
 Power BI · Tableau · Pandas
@@ -104,10 +101,12 @@ Arquitetura moderna de dados
 Data Governance & Data Quality
 Data Products
 Engenharia de Dados
+Data Science
 Databricks & PySpark
 Aplicação de IA em ambientes corporativos
 Conexão entre Dados, IA e decisões de negócio
 Decision-Driven Data Architecture (D³A)
+
 🤝 Vamos conversar
 
 Tenho interesse em conectar com profissionais e organizações que estejam enfrentando desafios reais em:
@@ -120,6 +119,4 @@ linkedin.com/in/lmtdata
 
 💡 Uma última ideia
 
-A pergunta não é quantos dados temos.
-
-É se conseguimos transformar dados confiáveis em decisões melhores.
+A pergunta não é quantos dados temos, é se conseguimos transformar dados confiáveis em decisões melhores.
