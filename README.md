@@ -21,29 +21,53 @@ O objetivo não é construir apenas pipelines, dashboards ou modelos, é constru
 “Podemos confiar na decisão que estamos tomando?”
 
 🚀 O que eu faço
+
 Data Governance & Data Quality
+
 Governança de dados aplicada à operação
+
 Data Quality e controles de confiabilidade
+
 Data Stewardship e Data Ownership
+
 Metadados, Data Lineage e Data Contracts
+
 LGPD e requisitos de ambientes regulados SUSEP e BACEN
+
 Data Engineering
+
 Construção de pipelines de dados
+
 Python e PySpark
+
 SQL
+
 Arquitetura Medallion — Bronze / Silver / Gold
+
 Data Products
+
 Lakehouse e processamento distribuído
+
 Databricks
+
 Cloud Computing
+
 Orquestração com Airflow
+
 Analytics & Data Science
+
 Business Intelligence e Power BI
+
 Análise de performance e indicadores
+
 Funil de originação
+
 Previsão de demanda
+
 Segmentação de clientes
+
 RFM e churn
+
 Modelos preditivos aplicados a problemas de negócio
 
 🔬 Projeto em destaque
